@@ -70,9 +70,9 @@
         "precio": 1000
     },
     {
-        "id": "conito-04",
-        "titulo": "Mini Conitos",
-        "imagen": "./img/conitos/04.jpg",
+        "id": "conito-03",
+        "titulo": "Conito Oreo",
+        "imagen": "./img/conitos/03.jpg",
         "categoria": {
             "nombre": "Conitos",
             "id": "conitos"
