@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WIMI PASTELERIA ARTESANAL</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <header class="header">
+        <img src="/img/wimi_logo.png" alt="Logo" class="logo">
+        <nav class="nav">
+            <button data-categoria="Todos los productos">Todos los productos</button>
+            <button data-categoria="Alfajores">Alfajores</button>
+            <button data-categoria="Conitos">Conitos</button>
+            <button data-categoria="Cookies">Cookies</button>
+            <button class="carrito">Carrito <span class="contador-carrito">0</span></button>
+        </nav>
+    </header>
+    <section class="products">
+        <!-- Aquí se mostrarán los productos -->
+    </section>
+
+    <section class="carrito-panel">
+        <div class="carrito-container">
+            <div class="carrito-header">
+                <h2>Mis compras</h2>
+                <button class="cerrar-carrito">Cerrar</button>
+            </div>
+            <div class="carrito-body"></div>
+            <div class="carrito-footer">
+                <p>Total: <span class="total-carrito">$ 0.00</span></p>
+                <button class="comprar-btn">Comprar</button>
+            </div>
+        </div>
+    </section>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>
+

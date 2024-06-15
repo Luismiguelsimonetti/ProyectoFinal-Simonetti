@@ -1,0 +1,132 @@
+[
+    {
+        "id": "alfajor-01",
+        "titulo": "Alfajor Chocolate Negro",
+        "imagen": "./img/alfajores/01.jpg",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-02",
+        "titulo": "Alfajor Chocolate Blanco",
+        "imagen": "./img/alfajores/02.jpg",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-03",
+        "titulo": "Alfajor Maicena",
+        "imagen": "./img/alfajores/03.jpg",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-04",
+        "titulo": "Alfajor Mini Rogel",
+        "imagen": "./img/alfajores/04.jpg",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-05",
+        "titulo": "Alfajor Almendras",
+        "imagen": "./img/alfajores/05.jpg",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "conito-01",
+        "titulo": "Conito Negro",
+        "imagen": "./img/conitos/01.jpg",
+        "categoria": {
+            "nombre": "Conitos",
+            "id": "conitos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "conito-02",
+        "titulo": "Conito Blanco",
+        "imagen": "./img/conitos/02.jpg",
+        "categoria": {
+            "nombre": "Conitos",
+            "id": "conitos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "conito-03",
+        "titulo": "Conito Oreo",
+        "imagen": "./img/conitos/03.jpg",
+        "categoria": {
+            "nombre": "Conitos",
+            "id": "conitos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "conito-04",
+        "titulo": "Mini Conitos",
+        "imagen": "./img/conitos/04.jpg",
+        "categoria": {
+            "nombre": "Conitos",
+            "id": "conitos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cookie-01",
+        "titulo": "Cookie Chocolate Negro",
+        "imagen": "./img/cookies/01.jpg",
+        "categoria": {
+            "nombre": "Cookies",
+            "id": "cookies"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cookie-02",
+        "titulo": "Cookie Chocolate Blanco",
+        "imagen": "./img/cookies/02.jpg",
+        "categoria": {
+            "nombre": "Cookies",
+            "id": "cookies"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cookie-03",
+        "titulo": "Cookie Almendras",
+        "imagen": "./img/cookies/03.jpg",
+        "categoria": {
+            "nombre": "Cookies",
+            "id": "cookies"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cookie-04",
+        "titulo": "Ojo de Buey",
+        "imagen": "./img/cookies/04.jpg",
+        "categoria": {
+            "nombre": "Cookies",
+            "id": "cookies"
+        },
+        "precio": 1000
+    }
+]
